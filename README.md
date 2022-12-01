@@ -10,7 +10,6 @@ Currently working and interning in the area of web development and focusing on s
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luanaalvessoares&theme=dark&hide_border=false)<br/>
 
--
 [![](https://visitcount.itsvg.in/api?id=luanaalvessoares&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
