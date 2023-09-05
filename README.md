@@ -1,4 +1,4 @@
 # About Me:
-Currently working and interning in the area of web development and focusing on specializing in this same area. I use the platform to improve my studies and practical knowledge.
+Currently working with web development using languages and tools such as javascript, php and liquid. I use the platform to improve my studies and practical knowledge.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
